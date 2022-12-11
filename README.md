@@ -1,5 +1,7 @@
 
 ## <p align="center"><b>HI!😎 I'm Dharshan studying btech at Amrita Vishwa Vidhyapeetam.</b></p>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="40%"></p>
+<br>
 ## <u>About me</u> :
 - 🔭 <b>passionate about cyber security and webpage development</b>
 - 🔮 <b>Im currently learning linux commands,kali linux and php.</b>
