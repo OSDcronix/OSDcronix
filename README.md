@@ -1,5 +1,6 @@
 
 ## <p align="center"><b>HI!😎 I'm Dharshan studying btech at Amrita Vishwa Vidhyapeetam.</b></p>
+<p align="center" float="right" position="absolute">
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="40%"></p>
 <br>
 ## <u>About me</u> :
