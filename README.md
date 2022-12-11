@@ -13,6 +13,10 @@
     </center></a>
 </p>
 <br>
+<p align="center">
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=OSDcronix"/>
+</a>
 
 ## <u>Skills</u> :
 
