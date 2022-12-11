@@ -1,5 +1,5 @@
 
-## <p align="center"><b>HI!👋 I'm Dharshan studying btech at Amrita Vishwa Vidhyapeetam.</b></p>
+## <p align="center"><b>HI! I'm Dharshan studying btech at Amrita Vishwa Vidhyapeetam.</b></p>
 ## <u>About me</u> :
 - 🔭 <b>passionate about cyber security and webpage development</b>
 - 🔮 <b>Im currently learning linux commands,kali linux and php.</b>
